@@ -1,4 +1,4 @@
-Southern Water Corp Python Case Study
+**Southern Water Corp Python Case Study**
 
 In this case study, you will be dealing with minute by minute time-series data. The data
 will be recorded every minute for a number of variables like temperature. In particular,
